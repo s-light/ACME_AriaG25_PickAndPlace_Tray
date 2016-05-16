@@ -6,5 +6,5 @@ Pick&amp;Place SMT Tray for ACME Aria G25 SOM (http://www.acmesystems.it/aria)
 
 <!-- License info -->
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)   
-LED Board PCB by [Stefan Krüger (s-light)](https://github.com/s-light/ACME_AriaG25_PickAndPlace_Tray) is licensed under a  
+ACME AriaG25 Pick&Place Tray by [Stefan Krüger (s-light)](https://github.com/s-light/ACME_AriaG25_PickAndPlace_Tray) is licensed under a  
 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
